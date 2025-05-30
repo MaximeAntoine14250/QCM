@@ -1,0 +1,125 @@
+{
+  "qcm": [
+    {
+      "id": "Q1",
+      "question": "Quelle est la capitale de la France ?",
+      "options": [
+        "Londres",
+        "Paris", 
+        "Berlin",
+        "Madrid"
+      ],
+      "correct_answer": "Paris"
+    },
+    {
+      "id": "Q2", 
+      "question": "Quelles sont les couleurs primaires ?",
+      "options": [
+        "Rouge",
+        "Vert",
+        "Bleu",
+        "Jaune"
+      ],
+      "correct_answer": ["Rouge", "Bleu", "Vert"]
+    },
+    {
+      "id": "Q3",
+      "question": "Combien de continents y a-t-il sur Terre ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_answer": "7"
+    },
+    {
+      "id": "Q4",
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": [
+        "Victor Hugo",
+        "Emile Zola",
+        "Gustave Flaubert",
+        "Alexandre Dumas"
+      ],
+      "correct_answer": "Victor Hugo"
+    },
+    {
+      "id": "Q5",
+      "question": "Quelle est la plus grande planète du système solaire ?",
+      "options": [
+        "Terre",
+        "Jupiter",
+        "Saturne",
+        "Mars"
+      ],
+      "correct_answer": "Jupiter"
+    },
+    {
+      "id": "Q6",
+      "question": "Quel est l'élément chimique dont le symbole est O ?",
+      "options": [
+        "Or",
+        "Oxygène",
+        "Osmium",
+        "Oganesson"
+      ],
+      "correct_answer": "Oxygène"
+    },
+    {
+      "id": "Q7",
+      "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": [
+        "1965",
+        "1969",
+        "1972",
+        "1981"
+      ],
+      "correct_answer": "1969"
+    },
+    {
+      "id": "Q8",
+      "question": "Quels sont les mammifères ?",
+      "options": [
+        "Chien",
+        "Dauphin",
+        "Aigle",
+        "Crocodile"
+      ],
+      "correct_answer": ["Chien", "Dauphin"]
+    },
+    {
+      "id": "Q9",
+      "question": "Quels pays font partie de l'Union européenne ?",
+      "options": [
+        "France",
+        "Suisse",
+        "Italie",
+        "Norvège"
+      ],
+      "correct_answer": ["France", "Italie"]
+    },
+    {
+      "id": "Q10",
+      "question": "Quelles sont des planètes telluriques ?",
+      "options": [
+        "Mercure",
+        "Venus",
+        "Terre",
+        "Jupiter"
+      ],
+      "correct_answer": ["Mercure", "Venus", "Terre"]
+    },
+    {
+      "id": "Q11",
+      "question": "Lesquelles sont des langues romanes ?",
+      "options": [
+        "Français",
+        "Allemand",
+        "Espagnol",
+        "Italien"
+      ],
+      "correct_answer": ["Français", "Espagnol", "Italien"]
+    }
+  ]
+}
